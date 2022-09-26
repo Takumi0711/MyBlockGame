@@ -997,3 +997,237 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.09.26-02.10.58:668][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2022.09.26-02.10.58:713][  1]LogAssetRegistry: Asset discovery search completed in 13.2591 seconds
 [2022.09.26-02.10.58:718][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.09.26-02.12.44:598][ 15]LogDerivedDataCache: C:/Users/aotak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.005 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.26-02.15.22:325][526]LogViewport: Scene viewport resized to 2027x1164, mode Windowed.
+[2022.09.26-02.15.22:535][526]LogViewport: Scene viewport resized to 1520x873, mode Windowed.
+[2022.09.26-02.15.22:790][526]LogViewport: Scene viewport resized to 3056x1881, mode Windowed.
+[2022.09.26-02.15.53:033][979]LogSlate: Window 'MyBlockGame - Unreal Editor' being destroyed
+[2022.09.26-02.15.53:105][979]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2022.09.26-02.15.53:105][979]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2022.09.26-02.15.53:105][979]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2022.09.26-02.15.53:105][979]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2022.09.26-02.15.53:105][979]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2022.09.26-02.15.53:105][979]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Tools
+[2022.09.26-02.15.53:105][979]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build
+[2022.09.26-02.15.53:106][979]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingQuality
+[2022.09.26-02.15.53:106][979]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingDensity
+[2022.09.26-02.15.53:106][979]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingResolution
+[2022.09.26-02.15.53:107][979]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo
+[2022.09.26-02.15.53:107][979]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Select
+[2022.09.26-02.15.53:107][979]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2022.09.26-02.15.53:107][979]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2022.09.26-02.15.53:107][979]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2022.09.26-02.15.53:107][979]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AddQuickMenu
+[2022.09.26-02.15.53:107][979]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.ModesToolBar
+[2022.09.26-02.15.53:107][979]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AssetsToolBar
+[2022.09.26-02.15.53:107][979]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.PlayToolBar
+[2022.09.26-02.15.53:107][979]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.User
+[2022.09.26-02.15.53:107][979]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SettingsToolbar
+[2022.09.26-02.15.53:115][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-02.15.53:118][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-02.15.53:122][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-02.15.53:125][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-02.15.53:136][979]LogToolMenus: Warning: Menu already registered : LevelEditor.StatusBar.ToolBar.CompileComboButton
+[2022.09.26-02.15.53:155][979]LogViewport: Scene viewport resized to 3051x1788, mode Windowed.
+[2022.09.26-02.15.54:926][122]LogViewport: Scene viewport resized to 2027x1164, mode Windowed.
+[2022.09.26-02.15.55:129][122]LogViewport: Scene viewport resized to 1520x873, mode Windowed.
+[2022.09.26-02.15.55:476][122]LogViewport: Scene viewport resized to 3056x1881, mode Windowed.
+[2022.09.26-02.16.16:662][904]LogSlate: Window '新規レベル' being destroyed
+[2022.09.26-02.16.16:665][904]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.26-02.16.16:666][904]LightingResults: New page: ライティングのビルド
+[2022.09.26-02.16.16:666][904]LoadErrors: New page: マップをロード中: Template_Default.umap
+[2022.09.26-02.16.16:667][904]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-02.16.16:668][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-02.16.16:668][904]MapCheck: New page: マップをチェック
+[2022.09.26-02.16.16:668][904]LightingResults: New page: <何も選択されていません>
+[2022.09.26-02.16.16:671][904]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.26-02.16.16:673][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.09.26-02.16.16:700][904]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.09.26-02.16.16:700][904]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-02.16.16:700][904]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-02.16.16:701][904]LogAIModule: Creating AISystem for world Untitled_1
+[2022.09.26-02.16.16:702][904]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.26-02.16.16:707][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.26-02.16.16:707][904]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.26-02.16.16:707][904]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.122ミリ秒かかりました。
+[2022.09.26-02.16.16:707][904]LogFileHelpers: Loading map 'Template_Default' took 0.042
+[2022.09.26-02.16.24:851][736]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.26-02.16.35:852][736]LogSlate: Window '名前を付けてレベルを保存する' being destroyed
+[2022.09.26-02.16.35:898][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level0" FILE="C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.26-02.16.35:902][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.09.26-02.16.35:906][736]LogSavePackage: Moving output files for package: /Game/Level0
+[2022.09.26-02.16.35:906][736]LogSavePackage: Moving 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Saved/Level01C943B2B4EF6EB52A3F8E2B591FCB253.tmp' to 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Level0.umap'
+[2022.09.26-02.16.35:911][736]Message dialog closed, result: Ok, title: ソース制御からチェックアウトできません！, text: 次のアセットをソースコントロールからチェックアウトできませんでした。:
+/Game/Level0_BuiltData
+[2022.09.26-02.16.35:911][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level0_BuiltData" FILE="C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Level0_BuiltData.uasset" SILENT=true
+[2022.09.26-02.16.35:914][736]LogSavePackage: Moving output files for package: /Game/Level0_BuiltData
+[2022.09.26-02.16.35:914][736]LogSavePackage: Moving 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Saved/Level0_BuiltData6B89A02F422223CF18B0B5A92A7511F1.tmp' to 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Level0_BuiltData.uasset'
+[2022.09.26-02.16.35:914][736]Message dialog closed, result: Ok, title: ソース制御からチェックアウトできません！, text: 次のアセットをソースコントロールからチェックアウトできませんでした。:
+/Game/Level0_BuiltData
+[2022.09.26-02.16.35:919][736]LogFileHelpers: Saving map 'Level0' took 0.058
+[2022.09.26-02.16.35:922][736]AssetCheck: New page: アセット保存：複数のアセット
+[2022.09.26-02.16.35:922][736]LogContentValidation: Display: World /Game/Level0.Level0 を検証しています
+[2022.09.26-02.16.35:922][736]LogContentValidation: Display: MapBuildDataRegistry /Game/Level0_BuiltData.Level0_BuiltData を検証しています
+[2022.09.26-02.16.40:309][164]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.26-02.16.45:842][716]LogContentBrowser: Deferred new asset folder creation: 新規フォルダ
+[2022.09.26-02.16.45:853][716]LogContentBrowser: Creating deferred item: 新規フォルダ
+[2022.09.26-02.16.45:858][717]LogContentBrowser: Renaming the item being created (Deferred Item: 新規フォルダ).
+[2022.09.26-02.16.52:354][354]LogContentBrowser: Attempting asset rename: 新規フォルダ -> Maps
+[2022.09.26-02.16.52:354][354]LogContentBrowser: End creating deferred item 新規フォルダ
+[2022.09.26-02.16.56:625][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2022.09.26-02.16.56:635][789]LogSavePackage: Moving output files for package: /Game/Maps/Level0_BuiltData
+[2022.09.26-02.16.56:635][789]LogSavePackage: Moving 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Saved/Level0_BuiltData5642619D431877C3F8D43A87B5F7719F.tmp' to 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Maps/Level0_BuiltData.uasset'
+[2022.09.26-02.16.56:636][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.26-02.16.56:641][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.26-02.16.56:646][789]LogSavePackage: Moving output files for package: /Game/Maps/Level0
+[2022.09.26-02.16.56:646][789]LogSavePackage: Moving 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Saved/Level037742A8540EFF22BDF192FA4A64B3963.tmp' to 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Maps/Level0.umap'
+[2022.09.26-02.16.56:649][789]LogFileHelpers: 保存する新たな変更はありません！
+[2022.09.26-02.16.56:650][789]LogFileHelpers: Saving map 'Level0' took 0.014
+[2022.09.26-02.16.56:667][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.09.26-02.16.56:670][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.09.26-02.16.56:673][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2022.09.26-02.16.56:685][789]AssetCheck: New page: アセット保存：複数のアセット
+[2022.09.26-02.16.56:685][789]LogContentValidation: Display: World /Game/Maps/Level0.Level0 を検証しています
+[2022.09.26-02.16.56:685][789]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Level0_BuiltData.Level0_BuiltData を検証しています
+[2022.09.26-02.17.20:008][302]Cmd: DELETE
+[2022.09.26-02.17.20:009][302]Cmd: ACTOR DELETE
+[2022.09.26-02.17.20:023][302]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.26-02.17.20:028][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.09.26-02.17.20:029][302]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.09.26-02.17.29:092][322]LogViewport: Scene viewport resized to 2345x1881, mode Windowed.
+[2022.09.26-02.17.51:620][963]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.26-02.19.26:628][609]LogSlate: Window 'パスを選択' being destroyed
+[2022.09.26-02.19.26:682][609]LogStaticMesh: Display: スタティックメッシュ StaticMesh_Wall をビルド中...
+[2022.09.26-02.19.26:686][609]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StaticMesh_Wall.StaticMesh_Wall
+[2022.09.26-02.19.26:687][609]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StaticMesh_Wall.StaticMesh_Wall
+[2022.09.26-02.19.26:687][609]LogActorFactory: Actor Factory spawned StaticMesh /Game/StaticMesh_Wall.StaticMesh_Wall as actor: StaticMeshActor /Game/Maps/Level0.Level0:PersistentLevel.StaticMeshActor_0
+[2022.09.26-02.19.26:709][609]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMesh_Wall.StaticMesh_Wall
+[2022.09.26-02.19.26:709][609]EditorErrors: New page: アクタを再度親子付け
+[2022.09.26-02.19.26:718][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.09.26-02.19.32:269][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMesh_Wall" FILE="C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/StaticMesh_Wall.uasset" SILENT=true
+[2022.09.26-02.19.32:271][213]LogSavePackage: Moving output files for package: /Game/StaticMesh_Wall
+[2022.09.26-02.19.32:271][213]LogSavePackage: Moving 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Saved/StaticMesh_WallB0DCD6D24404671CEF701D9AFC2E3AA6.tmp' to 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/StaticMesh_Wall.uasset'
+[2022.09.26-02.19.32:279][213]AssetCheck: New page: アセット保存：StaticMesh_Wall
+[2022.09.26-02.19.32:279][213]LogContentValidation: Display: StaticMesh /Game/StaticMesh_Wall.StaticMesh_Wall を検証しています
+[2022.09.26-02.19.40:976][180]LogContentBrowser: Deferred new asset folder creation: 新規フォルダ
+[2022.09.26-02.19.40:982][180]LogContentBrowser: Creating deferred item: 新規フォルダ
+[2022.09.26-02.19.40:989][181]LogContentBrowser: Renaming the item being created (Deferred Item: 新規フォルダ).
+[2022.09.26-02.19.45:953][764]LogContentBrowser: Attempting asset rename: 新規フォルダ -> Meshes
+[2022.09.26-02.19.45:954][764]LogContentBrowser: End creating deferred item 新規フォルダ
+[2022.09.26-02.19.49:287][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/StaticMesh_Wall" FILE="C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Meshes/StaticMesh_Wall.uasset" SILENT=true
+[2022.09.26-02.19.49:289][135]LogSavePackage: Moving output files for package: /Game/Meshes/StaticMesh_Wall
+[2022.09.26-02.19.49:289][135]LogSavePackage: Moving 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Saved/StaticMesh_WallBE4D2742432CC671EC4AF0A0A18B9EF5.tmp' to 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Meshes/StaticMesh_Wall.uasset'
+[2022.09.26-02.19.49:302][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.09.26-02.19.49:308][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.09.26-02.19.49:312][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.09.26-02.19.49:323][135]AssetCheck: New page: アセット保存：StaticMesh_Wall
+[2022.09.26-02.19.49:323][135]LogContentValidation: Display: StaticMesh /Game/Meshes/StaticMesh_Wall.StaticMesh_Wall を検証しています
+[2022.09.26-02.20.16:078][269]LogViewport: Scene viewport resized to 1169x937, mode Windowed.
+[2022.09.26-02.20.16:102][269]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.26-02.20.16:139][269]LogViewport: Scene viewport resized to 1169x937, mode Windowed.
+[2022.09.26-02.20.16:162][269]LogViewport: Scene viewport resized to 1169x937, mode Windowed.
+[2022.09.26-02.20.16:190][269]LogViewport: Scene viewport resized to 2095x1680, mode Windowed.
+[2022.09.26-02.20.16:214][270]LogViewport: Scene viewport resized to 1186x951, mode Windowed.
+[2022.09.26-02.20.16:257][271]LogViewport: Scene viewport resized to 1169x937, mode Windowed.
+[2022.09.26-02.20.18:778][566]LogViewport: Scene viewport resized to 1590x1275, mode Windowed.
+[2022.09.26-02.20.18:808][567]LogViewport: Scene viewport resized to 1999x1603, mode Windowed.
+[2022.09.26-02.20.18:840][568]LogViewport: Scene viewport resized to 2234x1792, mode Windowed.
+[2022.09.26-02.20.18:869][569]LogViewport: Scene viewport resized to 2324x1864, mode Windowed.
+[2022.09.26-02.20.18:907][570]LogViewport: Scene viewport resized to 2345x1881, mode Windowed.
+[2022.09.26-02.20.20:513][756]LogViewport: Scene viewport resized to 1712x1373, mode Windowed.
+[2022.09.26-02.20.20:546][757]LogViewport: Scene viewport resized to 1437x1152, mode Windowed.
+[2022.09.26-02.20.20:570][758]LogViewport: Scene viewport resized to 1307x1047, mode Windowed.
+[2022.09.26-02.20.20:589][759]LogViewport: Scene viewport resized to 1241x995, mode Windowed.
+[2022.09.26-02.20.20:608][760]LogViewport: Scene viewport resized to 1200x962, mode Windowed.
+[2022.09.26-02.20.20:627][761]LogViewport: Scene viewport resized to 1179x945, mode Windowed.
+[2022.09.26-02.20.20:646][762]LogViewport: Scene viewport resized to 1171x938, mode Windowed.
+[2022.09.26-02.20.20:663][763]LogViewport: Scene viewport resized to 1169x937, mode Windowed.
+[2022.09.26-02.20.21:270][827]LogViewport: Scene viewport resized to 1523x1221, mode Windowed.
+[2022.09.26-02.20.21:292][828]LogViewport: Scene viewport resized to 1858x1490, mode Windowed.
+[2022.09.26-02.20.21:318][829]LogViewport: Scene viewport resized to 2126x1705, mode Windowed.
+[2022.09.26-02.20.21:344][830]LogViewport: Scene viewport resized to 2272x1823, mode Windowed.
+[2022.09.26-02.20.21:364][831]LogViewport: Scene viewport resized to 2323x1864, mode Windowed.
+[2022.09.26-02.20.21:384][832]LogViewport: Scene viewport resized to 2343x1879, mode Windowed.
+[2022.09.26-02.20.21:412][833]LogViewport: Scene viewport resized to 2345x1881, mode Windowed.
+[2022.09.26-02.20.26:339][418]LogViewport: Scene viewport resized to 1698x1362, mode Windowed.
+[2022.09.26-02.20.26:364][419]LogViewport: Scene viewport resized to 1474x1182, mode Windowed.
+[2022.09.26-02.20.26:389][420]LogViewport: Scene viewport resized to 1325x1062, mode Windowed.
+[2022.09.26-02.20.26:407][421]LogViewport: Scene viewport resized to 1256x1007, mode Windowed.
+[2022.09.26-02.20.26:427][422]LogViewport: Scene viewport resized to 1208x968, mode Windowed.
+[2022.09.26-02.20.26:446][423]LogViewport: Scene viewport resized to 1183x948, mode Windowed.
+[2022.09.26-02.20.26:464][424]LogViewport: Scene viewport resized to 1172x939, mode Windowed.
+[2022.09.26-02.20.26:483][425]LogViewport: Scene viewport resized to 1169x937, mode Windowed.
+[2022.09.26-02.20.36:414][488]Cmd: TRANSACTION UNDO
+[2022.09.26-02.20.36:414][488]LogEditorTransaction: Undo 要素の移動
+[2022.09.26-02.20.40:249][855]Cmd: TRANSACTION UNDO
+[2022.09.26-02.20.40:249][855]LogEditorTransaction: Undo 要素の移動
+[2022.09.26-02.21.05:309][788]Cmd: TRANSACTION UNDO
+[2022.09.26-02.21.05:309][788]LogEditorTransaction: Undo 要素の移動
+[2022.09.26-02.21.08:722][148]LogViewport: Scene viewport resized to 1390x1114, mode Windowed.
+[2022.09.26-02.21.08:756][149]LogViewport: Scene viewport resized to 1910x1532, mode Windowed.
+[2022.09.26-02.21.08:825][150]LogViewport: Scene viewport resized to 2327x1867, mode Windowed.
+[2022.09.26-02.21.08:904][151]LogViewport: Scene viewport resized to 2345x1881, mode Windowed.
+[2022.09.26-02.21.48:503][900]LogViewport: Scene viewport resized to 1169x937, mode Windowed.
+[2022.09.26-02.22.00:852][838]Cmd: TRANSACTION UNDO
+[2022.09.26-02.22.00:852][838]LogEditorTransaction: Undo 要素の移動
+[2022.09.26-02.22.01:195][852]Cmd: TRANSACTION UNDO
+[2022.09.26-02.22.01:195][852]LogEditorTransaction: Undo 要素の移動
+[2022.09.26-02.22.01:574][882]Cmd: TRANSACTION UNDO
+[2022.09.26-02.22.01:574][882]LogEditorTransaction: Undo 要素の移動
+[2022.09.26-02.22.01:962][926]Cmd: TRANSACTION UNDO
+[2022.09.26-02.22.01:962][926]LogEditorTransaction: Undo 要素の移動
+[2022.09.26-02.22.02:484][986]Cmd: TRANSACTION UNDO
+[2022.09.26-02.22.02:484][986]LogEditorTransaction: Undo 要素の移動
+[2022.09.26-02.22.04:547][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.26-02.22.04:551][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.09.26-02.22.04:558][223]LogSavePackage: Moving output files for package: /Game/Maps/Level0
+[2022.09.26-02.22.04:558][223]LogSavePackage: Moving 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Saved/Level01732C5904BEC44C695C1E1BFF2BDCE8C.tmp' to 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Maps/Level0.umap'
+[2022.09.26-02.22.04:563][223]LogFileHelpers: 保存する新たな変更はありません！
+[2022.09.26-02.22.04:571][223]AssetCheck: New page: アセット保存：Level0
+[2022.09.26-02.22.04:571][223]LogContentValidation: Display: World /Game/Maps/Level0.Level0 を検証しています
+[2022.09.26-02.22.24:844][476]Cmd: TRANSACTION UNDO
+[2022.09.26-02.22.24:844][476]LogEditorTransaction: Undo 要素の移動
+[2022.09.26-02.23.35:005][314]Cmd: TRANSACTION UNDO
+[2022.09.26-02.23.35:005][314]LogEditorTransaction: Undo 要素の移動
+[2022.09.26-02.23.35:516][333]Cmd: TRANSACTION UNDO
+[2022.09.26-02.23.35:516][333]LogEditorTransaction: Undo 要素の移動
+[2022.09.26-02.23.35:984][385]Cmd: TRANSACTION UNDO
+[2022.09.26-02.23.35:984][385]LogEditorTransaction: Undo 要素の移動
+[2022.09.26-02.23.49:353][983]LogViewport: Scene viewport resized to 1390x1115, mode Windowed.
+[2022.09.26-02.23.49:386][984]LogViewport: Scene viewport resized to 1909x1531, mode Windowed.
+[2022.09.26-02.23.49:434][985]LogViewport: Scene viewport resized to 2273x1823, mode Windowed.
+[2022.09.26-02.23.49:471][986]LogViewport: Scene viewport resized to 2341x1878, mode Windowed.
+[2022.09.26-02.23.49:489][987]LogViewport: Scene viewport resized to 2345x1881, mode Windowed.
+[2022.09.26-02.23.54:358][559]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.26-02.24.56:179][642]LogSlate: Window 'パスを選択' being destroyed
+[2022.09.26-02.24.56:228][642]LogStaticMesh: Display: スタティックメッシュ StaticMesh_Roof をビルド中...
+[2022.09.26-02.24.56:232][642]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMesh_Roof.StaticMesh_Roof
+[2022.09.26-02.24.56:243][642]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StaticMesh_Roof.StaticMesh_Roof
+[2022.09.26-02.24.56:243][642]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StaticMesh_Roof.StaticMesh_Roof
+[2022.09.26-02.24.56:244][642]LogActorFactory: Actor Factory spawned StaticMesh /Game/StaticMesh_Roof.StaticMesh_Roof as actor: StaticMeshActor /Game/Maps/Level0.Level0:PersistentLevel.StaticMeshActor_4
+[2022.09.26-02.24.56:267][642]EditorErrors: New page: アクタを再度親子付け
+[2022.09.26-02.24.56:274][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.09.26-02.25.04:080][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/StaticMesh_Roof" FILE="C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Meshes/StaticMesh_Roof.uasset" SILENT=true
+[2022.09.26-02.25.04:082][513]LogSavePackage: Moving output files for package: /Game/Meshes/StaticMesh_Roof
+[2022.09.26-02.25.04:082][513]LogSavePackage: Moving 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Saved/StaticMesh_Roof0EECFC4C49F5719DE9A85B877A9E609F.tmp' to 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Meshes/StaticMesh_Roof.uasset'
+[2022.09.26-02.25.04:095][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.26-02.25.04:100][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.09.26-02.25.04:103][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.13ms
+[2022.09.26-02.25.04:115][513]AssetCheck: New page: アセット保存：StaticMesh_Roof
+[2022.09.26-02.25.04:115][513]LogContentValidation: Display: StaticMesh /Game/Meshes/StaticMesh_Roof.StaticMesh_Roof を検証しています
+[2022.09.26-02.25.15:721][878]LogViewport: Scene viewport resized to 2178x1747, mode Windowed.
+[2022.09.26-02.25.15:756][879]LogViewport: Scene viewport resized to 1729x1387, mode Windowed.
+[2022.09.26-02.25.15:809][880]LogViewport: Scene viewport resized to 1327x1064, mode Windowed.
+[2022.09.26-02.25.15:849][881]LogViewport: Scene viewport resized to 1204x965, mode Windowed.
+[2022.09.26-02.25.15:870][882]LogViewport: Scene viewport resized to 1179x945, mode Windowed.
+[2022.09.26-02.25.15:904][883]LogViewport: Scene viewport resized to 1169x937, mode Windowed.
+[2022.09.26-02.25.55:287][639]LogEditorViewport: Clicking Background
+[2022.09.26-02.25.55:487][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.26-02.25.55:492][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.09.26-02.25.55:498][642]LogSavePackage: Moving output files for package: /Game/Maps/Level0
+[2022.09.26-02.25.55:498][642]LogSavePackage: Moving 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Saved/Level013F16AA84B3902C2993A5DBB56FE1814.tmp' to 'C:/Users/aotak/Documents/Unreal Projects/MyBlockGame/MyBlockGame/Content/Maps/Level0.umap'
+[2022.09.26-02.25.55:503][642]LogFileHelpers: 保存する新たな変更はありません！
+[2022.09.26-02.25.55:510][642]AssetCheck: New page: アセット保存：Level0
+[2022.09.26-02.25.55:510][642]LogContentValidation: Display: World /Game/Maps/Level0.Level0 を検証しています
+[2022.09.26-02.35.46:737][498]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092503957502895
+[2022.09.26-02.35.46:737][498]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
